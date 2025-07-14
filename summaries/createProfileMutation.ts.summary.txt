@@ -1,0 +1,1 @@
+The provided code defines a mutation using the Farfetched library. It creates a function called `createProfileMutation` that handles the creation of a profile by uploading it to the server using the `UploadService`. The mutation takes two parameters: `profile` and `sessionId`, which are used to identify the user and session.

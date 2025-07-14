@@ -1,0 +1,1 @@
+The provided code defines a class named `FeedService` that handles fetching public profiles and profiles by owner ID from an API. The `fetchPublicProfiles` and `fetchProfilesByOwnerId` methods validate the filters before making a request to the API, ensuring that at least one filter is present.

@@ -1,0 +1,1 @@
+This code is a React functional component named "Search". It uses the Effector library to manage state and side effects. The component renders an input field, a button to load more data, and a list of profiles. When the user types in the input field, the component updates the search query and loads new data if necessary.

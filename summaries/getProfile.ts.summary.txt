@@ -1,0 +1,1 @@
+This code defines a query using the @farfetched/core library. The query is named 'getProfile' and it fetches a profile by its ID from the ProfileService.

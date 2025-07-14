@@ -1,0 +1,3 @@
+The provided code is a template for creating an Effector store that manages a feed of profiles. It includes various events, queries, and mutations to fetch, save, and remove profiles from the feed. The store uses a combination of Effector's features such as sample, combine, and createStore to manage the state of the feed.
+
+The code is well-structured and follows good practices for writing an Effector store template. It includes clear and concise comments that explain what each part of the code does.

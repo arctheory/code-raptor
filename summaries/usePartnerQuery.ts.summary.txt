@@ -1,0 +1,1 @@
+The provided code defines a custom React Query hook named `usePartnerQuery` that fetches data from the `PartnerService` based on the provided `partnerId`. The hook uses the `useQuery` function from React Query to manage the query and its dependencies.

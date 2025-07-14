@@ -1,0 +1,1 @@
+This query is a custom query created using the @farfetched/core library. It fetches filtered personal feed data from the FeedService, which in turn calls the fetchProfilesByOwnerId method to retrieve profiles by owner ID.

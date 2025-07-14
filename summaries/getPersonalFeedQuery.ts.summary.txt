@@ -1,0 +1,1 @@
+This code defines a custom query using the @farfetched/core library. The query is named 'getPersonalFeed' and it fetches profiles by owner ID from the FeedService. The handler function takes in parameters of type FeedApiParams, which are used to make the API call.

@@ -1,0 +1,1 @@
+The provided code is a React functional component that renders a full-screen loader using the Material-UI library. It utilizes the CircularProgress component to display a circular progress indicator.

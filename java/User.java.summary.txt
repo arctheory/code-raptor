@@ -1,0 +1,5 @@
+This Java code defines an entity class named `User` which represents a user account in a database. The class has several fields: `id`, `email`, `name`, `pwdHash`, and `created`. Each field has specific constraints such as uniqueness, length limits, and timestamp generation.
+
+The class provides several constructors to create new `User` objects with different combinations of fields, as well as getter and setter methods for accessing and modifying their values. The use of JPA annotations allows the class to be mapped to a database table, where the `id` field is automatically generated, and the `created` field is set to the current timestamp.
+
+The constraints on the fields ensure that user data is valid and consistent, such as ensuring that email addresses are not blank and have a specific length. The use of a hashed password (`pwdHash`) suggests that this class is part of a larger system for managing user accounts securely.

@@ -1,0 +1,3 @@
+This is a React functional component named `MultipleOptionsList` that displays a list of options. The component takes in three props: `options`, `selectedValues`, and `onSelect`. It checks if the provided options are grouped or not, and renders the list accordingly.
+
+The component uses recursion to handle nested groups of options. If the options are grouped, it maps over each group and recursively calls itself for each group's options. If the options are not grouped, it simply maps over the options and renders a button for each one.

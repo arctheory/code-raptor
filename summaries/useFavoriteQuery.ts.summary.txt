@@ -1,0 +1,3 @@
+The provided code is a custom hook named `useFavoriteQuery` that manages the state of favorite pins in a React application. It uses the `@tanstack/react-query` library to handle data fetching, caching, and updates. The hook provides two mutation functions, `addToFavourites` and `removeFromFavourites`, which are used to add or remove pins from the favorites list.
+
+The code also includes a function called `switchPinned`, which is used to update the pinned status of a profile in the data. Additionally, it uses the `immer` library to produce a new draft of the data instead of mutating the original object.

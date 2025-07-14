@@ -1,0 +1,1 @@
+This function is a basic implementation of the Pull To Refresh component. It takes in props containing attributes and children, but does not currently implement any functionality to refresh the content when the user pulls down.

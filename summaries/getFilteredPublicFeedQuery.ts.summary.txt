@@ -1,0 +1,1 @@
+This query is a custom query created using the @farfetched/core library. It fetches public profiles from the FeedService, passing in page and filter parameters. The result of this query is returned as an object.

@@ -1,0 +1,10 @@
+This UserService class is designed to encapsulate business logic related to users, providing methods for CRUD (Create, Read, Update, Delete) operations. It leverages the UserDao to perform database-related tasks, ensuring a clean separation of concerns between the business logic and data access layers.
+
+The class's constructor injects an instance of UserDao, which is used throughout the class to interact with the user data storage. The methods in this class are designed to be reusable and flexible, allowing for easy extension or modification as needed.
+
+Key aspects of this code include:
+
+*   Use of Spring framework for dependency injection
+*   Dependency inversion principle for loose coupling between classes
+*   Exception handling for robust error management
+*   Encapsulation of business logic within a single class

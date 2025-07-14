@@ -1,0 +1,1 @@
+This code is a React component that renders a filter modal. It includes various filters such as age range, gender, religion, caste, income range, employment status, marital status, family status, height range, qualification, profession, and complexion rating. The user can select options for each filter using sliders or dropdown menus.

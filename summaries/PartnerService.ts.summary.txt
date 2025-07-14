@@ -1,0 +1,1 @@
+The provided code defines a static method `fetchPartner` within the `PartnerService` class. This method uses an API client to make a GET request to retrieve data from a partner based on its ID.

@@ -1,0 +1,1 @@
+This custom hook uses React's useState to store the user's preferred language in local storage. It also provides a setLanguage function to update the stored language.

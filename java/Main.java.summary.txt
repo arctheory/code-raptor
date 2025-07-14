@@ -1,0 +1,4 @@
+This Java code is a basic example of a Spring Boot application. It starts a server and prints its host and port to the console. The main steps involved are:
+1. Starting the Spring Boot application context using `SpringApplication.run`.
+2. Retrieving the host and port from the environment properties.
+3. Logging an information message indicating that the server has started.

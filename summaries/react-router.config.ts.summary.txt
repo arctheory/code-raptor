@@ -1,0 +1,1 @@
+This code snippet defines a configuration object that adheres to the `Config` type from `@react-router/dev/config`. The `ssr` property is set to `false`, indicating that server-side rendering should be disabled, which is necessary for enabling SPA (Single Page Application) mode.

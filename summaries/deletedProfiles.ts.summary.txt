@@ -1,0 +1,1 @@
+This code snippet is setting up an Effector store to manage deleted profiles. It creates two events, `deleteProfileEvent` and `revertDeleteEvent`, which are used to track when a profile is deleted or reverted. The `$deletedProfiles` store uses these events to keep track of the IDs of deleted profiles.

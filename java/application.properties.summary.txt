@@ -1,0 +1,23 @@
+This configuration file provides a comprehensive setup for a Spring Boot application, including server port, hot reload, database connection, and Hibernate/JPA configurations. It also includes Flyway settings for managing database migrations.
+
+The key components of this configuration include:
+
+* Server port: 3000
+* Hot reload: enabled on file changes
+* Database connection:
+	+ Name: practice
+	+ URL: jdbc:postgresql://localhost:5432/${db.name}
+	+ Username: practice
+	+ Password: password
+* Hibernate/JPA configurations:
+	+ DDL auto: update
+	+ Naming strategy: custom implementation
+	+ Show SQL: true
+	+ Format SQL: true
+	+ Dialect: PostgreSQL81Dialect
+	+ Default schema: main
+* Flyway settings:
+	+ URL: ${db.url}
+	+ Schemas: public
+	+ User: ${db.username}
+	+ Password: ${db.password}

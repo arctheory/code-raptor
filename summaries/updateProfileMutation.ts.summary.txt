@@ -1,0 +1,1 @@
+The provided code defines a mutation using the @farfetched/core library. It creates a function called updateProfileMutation that takes an UpdateProfileParams object as a parameter. This object contains the profileId and the updated profile data. The handler of this mutation calls the ProfileService's updateProfile method with the provided parameters.

@@ -1,0 +1,1 @@
+The provided code defines a mutation using the Farfetched library to create a new session photo. It takes in parameters such as the session ID, image file, and an optional upload progress callback function.

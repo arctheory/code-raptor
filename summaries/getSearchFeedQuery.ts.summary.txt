@@ -1,0 +1,1 @@
+This query is a custom API query that fetches search results from the feed store. It uses the ProfileService to perform the actual search, passing in the query parameters such as the search term, page number, and filters.

@@ -1,0 +1,1 @@
+This code defines a mutation using the Farfetched library. The mutation is named 'removeSavedProfile' and it removes a saved profile by calling the removePin method of the PinsService class.

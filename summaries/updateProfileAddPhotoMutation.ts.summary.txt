@@ -1,0 +1,1 @@
+The provided code defines a mutation using the @farfetched/core library. It creates a function called updateProfileAddPhotoMutation that takes an object with profileId and file as parameters, uses the UploadService to upload the image, and returns the response from the service.

@@ -1,0 +1,1 @@
+This configuration file is setting up Vite to work with React Router and Tailwind CSS. The postcss plugins are being used to enable autoprefixer and tailwindcss, which will be used to generate CSS classes for styling components.

@@ -1,0 +1,3 @@
+The function `withAuthCheck` is a higher-order component (HOC) that wraps around another React component. It checks if the user is authenticated before rendering the wrapped component.
+
+It uses the `useUnit` hook from Effector to access the `$isAuthReady` and `$user` states, which are likely stored in an application's state management system. If the user is not authenticated (`!isAuthReady`), it renders a full-screen loader. If the user is authenticated but not logged in (`user !== null`), it navigates to the home page. If the user is not authenticated and `navToAuth` is true, it navigates to the authentication page.

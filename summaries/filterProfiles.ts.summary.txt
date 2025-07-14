@@ -1,0 +1,1 @@
+The provided code is a set of Effector store templates and event handlers for managing filters in a feed application. It includes stores for current filters, loading state, filtered profiles, and more, as well as events for updating filters, loading feeds, refreshing feeds, and resetting the feed.

@@ -1,0 +1,1 @@
+The provided code is a React application that handles user sign-up functionality. It includes various steps such as personal details, business details, address details, and terms and conditions. The application uses axios for making API requests to the server-side endpoint.

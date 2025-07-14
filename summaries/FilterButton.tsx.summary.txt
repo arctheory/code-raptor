@@ -1,0 +1,1 @@
+The provided code defines a reusable `FilterButton` component that can be customized with various props. It utilizes the `classNames` library to conditionally apply CSS classes based on the provided `className` prop.

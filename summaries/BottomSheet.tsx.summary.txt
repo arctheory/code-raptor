@@ -1,0 +1,1 @@
+The provided code is a React component that renders a bottom sheet. It uses the `useEffect` hook to adjust the document body's overflow style based on the visibility of the bottom sheet. The component also includes an icon to close the bottom sheet and allows for custom children.

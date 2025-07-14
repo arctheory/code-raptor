@@ -1,0 +1,1 @@
+The code provided is a React functional component named "Matches". It uses the Effector library to manage state and side effects. The component fetches data from a public feed using the `fetchFeedEvent` action, which triggers the loading of the profiles list. The component also handles pagination and refresh functionality.

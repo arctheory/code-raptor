@@ -1,0 +1,1 @@
+This code snippet imports necessary modules from Material-UI to create a custom theme. It defines a palette with primary, secondary, error colors, and a divider color. The shape property is also defined to set the border radius.

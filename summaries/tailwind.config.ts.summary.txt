@@ -1,0 +1,1 @@
+This configuration file is a Tailwind CSS configuration that specifies the content to be processed, the theme settings, and any plugins to be used. The content includes all JavaScript, JSX, TypeScript, and TSX files within the ./app directory and its subdirectories.

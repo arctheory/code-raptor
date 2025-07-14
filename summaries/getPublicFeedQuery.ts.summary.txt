@@ -1,0 +1,1 @@
+This query uses the createQuery function from @farfetched/core to define a custom query named 'getPublicFeed'. The handler function is asynchronous and fetches public profiles using the FeedService. It takes an object of type FeedApiParams as a parameter, which contains pagination information.

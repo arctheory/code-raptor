@@ -1,0 +1,3 @@
+This controller advice class is designed to catch any exceptions that occur during the execution of controllers in a Spring application. It provides a centralized way to handle exceptions, making it easier to manage and debug errors in the application. The class uses the @ExceptionHandler annotation to specify which types of exceptions should be caught and handled by this method.
+
+The `handleCityNotFoundException` method logs the error message using a logger and returns a ResponseEntity with a status code of 400 Bad Request and the error message as its response body. This indicates that an error occurred, but it does not provide any additional information about the cause of the error.

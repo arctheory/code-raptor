@@ -1,0 +1,1 @@
+This code defines a custom query using the @farfetched/core library. The query is named "getSavedProfiles" and it fetches all pinned profiles from the PinsService, passing the page number as a parameter.

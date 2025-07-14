@@ -1,0 +1,1 @@
+The code provided is a React application that uses the `withAuthCheck` higher-order component (HOC) to protect certain routes. The `meta` function returns metadata about the app, including its title and description. The `Splash` component is an empty functional component, while the `WrappedSplash` component wraps it with the `withAuthCheck` HOC.

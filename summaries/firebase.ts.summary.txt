@@ -1,0 +1,1 @@
+This code initializes a Firebase app using the provided configuration. The configuration is either set to development mode or environment variables are used, depending on whether the application is being run in a development environment.

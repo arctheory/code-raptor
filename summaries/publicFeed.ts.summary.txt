@@ -1,0 +1,3 @@
+This code defines a store for managing a user's feed, which includes functions to get the public feed, save profiles, and remove saved profiles. The store is created using the `feedStoreTemplate` function, which takes in various dependencies such as queries and mutations.
+
+The code also sets up an Effector sample that listens for the completion of the create profile mutation and triggers a refresh of the feed event on the store's `refreshFeedEvent` target.

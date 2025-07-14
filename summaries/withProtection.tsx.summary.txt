@@ -1,0 +1,1 @@
+The function `withProtection` is a higher-order component (HOC) that wraps around any React component, providing authentication protection. It checks if the user is authenticated using the `$isAuthReady` and `$user` units from Effector. If not authenticated, it renders either a full-screen loader or redirects to the authentication page.
